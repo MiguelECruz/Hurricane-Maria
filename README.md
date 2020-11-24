@@ -1,0 +1,2 @@
+# Hurricane-Maria
+This is the repository dedicated for storing the data and program scripts used in the Python reproduction of R. Irizarry's analysis as described in his blog post "Estimating mortality rates in Puerto Rico after hurricane María using newly released official death counts" and replicating the comparisons made in his team's previous article, "Mortality in Puerto Rico after Hurricane Maria" with the updated mortality data for 2017 provided by the Puerto Rico Health Department on 2018.
